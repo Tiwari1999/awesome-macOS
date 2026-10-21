@@ -83,6 +83,7 @@
 
 ### Developers
 
+- [Agent Island](https://agentisland.in) - Shows every running AI coding agent in the MacBook notch — Claude Code, Codex, Cursor, Gemini CLI and OpenCode — with context window, spend, and a click through to that session's terminal tab. [![Open-Source Software][OSS Icon]](https://github.com/Tiwari1999/Agent-Island) ![Freeware][Freeware Icon]
 - [Anvil](http://anvilformac.com/) - Serve up static sites and Rack apps with simple URLs and zero configuration. ![Freeware][Freeware Icon]
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client) - An app for testing REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
